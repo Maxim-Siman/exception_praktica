@@ -1,0 +1,14 @@
+E:\практики по шарпам\кт4 по exception\кт4 по exception\bin\Debug\net7.0\кт4 по exception.exe
+E:\практики по шарпам\кт4 по exception\кт4 по exception\bin\Debug\net7.0\кт4 по exception.deps.json
+E:\практики по шарпам\кт4 по exception\кт4 по exception\bin\Debug\net7.0\кт4 по exception.runtimeconfig.json
+E:\практики по шарпам\кт4 по exception\кт4 по exception\bin\Debug\net7.0\кт4 по exception.dll
+E:\практики по шарпам\кт4 по exception\кт4 по exception\bin\Debug\net7.0\кт4 по exception.pdb
+E:\практики по шарпам\кт4 по exception\кт4 по exception\obj\Debug\net7.0\кт4 по exception.GeneratedMSBuildEditorConfig.editorconfig
+E:\практики по шарпам\кт4 по exception\кт4 по exception\obj\Debug\net7.0\кт4 по exception.AssemblyInfoInputs.cache
+E:\практики по шарпам\кт4 по exception\кт4 по exception\obj\Debug\net7.0\кт4 по exception.AssemblyInfo.cs
+E:\практики по шарпам\кт4 по exception\кт4 по exception\obj\Debug\net7.0\кт4 по exception.csproj.CoreCompileInputs.cache
+E:\практики по шарпам\кт4 по exception\кт4 по exception\obj\Debug\net7.0\кт4 по exception.dll
+E:\практики по шарпам\кт4 по exception\кт4 по exception\obj\Debug\net7.0\refint\кт4 по exception.dll
+E:\практики по шарпам\кт4 по exception\кт4 по exception\obj\Debug\net7.0\кт4 по exception.pdb
+E:\практики по шарпам\кт4 по exception\кт4 по exception\obj\Debug\net7.0\кт4 по exception.genruntimeconfig.cache
+E:\практики по шарпам\кт4 по exception\кт4 по exception\obj\Debug\net7.0\ref\кт4 по exception.dll
